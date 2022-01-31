@@ -1,4 +1,4 @@
-# Factorial - Factorial even numbers from 1 to n
+# Factorial - Factorial even numbers from 1 to n - Java
 Factorial even numbers from 1 to n
 
 A program that calculates and prints the following series:
